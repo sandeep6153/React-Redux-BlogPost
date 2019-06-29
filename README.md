@@ -1,5 +1,6 @@
 # ReduxSimpleStarter
-
+This a react application is for adding blogs and modifying existing blogs and deleting a blog and also search a blog.
+Redux is being used for managing the application state.
 
 
 ### Getting Started
